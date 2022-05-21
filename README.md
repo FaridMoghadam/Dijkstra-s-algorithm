@@ -6,7 +6,7 @@ It picks the unvisited vertex with the lowest distance, calculates the distance 
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/FaridMoghadam)
 
-[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub watchers](https://github.com/FaridMoghadam/Dijkstra-s-algorithm)](https://github.com/FaridMoghadam/Dijkstra-s-algorithm/watchers)
 
 
 
