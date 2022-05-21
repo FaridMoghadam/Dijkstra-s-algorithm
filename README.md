@@ -6,15 +6,15 @@ It picks the unvisited vertex with the lowest distance, calculates the distance 
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/FaridMoghadam)
 
-[![GitHub watchers](https://github.com/FaridMoghadam/Dijkstra-s-algorithm)](https://github.com/FaridMoghadam/Dijkstra-s-algorithm/watchers)
-
 
 
 Read More : 
+
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 
 
 How to Use it : 
+
 dijkstra(graph, 'A', 'B')
 
 
