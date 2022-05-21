@@ -8,14 +8,13 @@ It picks the unvisited vertex with the lowest distance, calculates the distance 
 
 
 
-Read More : 
-
-https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-
+Read More : https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 
 How to Use it : 
-
 dijkstra(graph, 'A', 'B')
+
+
+
 
 
 
