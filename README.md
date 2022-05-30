@@ -15,6 +15,9 @@ dijkstra(graph, 'A', 'B')
 
 
 
+![Alt text](https://raw.githubusercontent.com/FaridMoghadam/Dijkstra-s-algorithm/main/Nodes%20and%20Graph.jpg "Optional title")
+
+
 
 
 
